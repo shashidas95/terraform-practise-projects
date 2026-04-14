@@ -1,3 +1,6 @@
+
+
+```markdown
 # 🏗️ Terraform Practice & Infrastructure Projects
 
 This repository is a dedicated space for my **Infrastructure as Code (IaC)** journey. It contains a series of projects focused on automating cloud resource provisioning on **AWS** using **Terraform**.
@@ -51,3 +54,20 @@ terraform plan
 
 # Execute the plan and build the infrastructure
 terraform apply
+```
+
+---
+
+## ⚠️ Safety Note
+Always remember to run `terraform destroy` when finished with a lab to avoid unnecessary AWS costs.
+
+---
+
+## 👨‍💻 Author
+**Shashi Kanta Das**
+*Software Architect | DevOps Engineer | Assistant Director @ BSTI*
+```
+
+---
+
+
